@@ -1,0 +1,9 @@
+# Sources Excel (restent en local)
+*.xlsx
+~$*
+# Copies dérivées des Excel et fichiers locaux de graphify
+graphify-out/converted/
+graphify-out/cache/
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+.DS_Store
